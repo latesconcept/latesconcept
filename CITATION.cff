@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message-type: citation
+title: "Lates Concept — Universo Lates: Tratado, Caderno, Projeto Aurora e Bancada"
+version: "1.0"
+type: software
+authors:
+  - family-names: Estevam
+    given-names: "T. G."
+  - family-names: Drael
+date-issued: 2026-11-24
+publisher: "Lates Concept Inova Simples (CNPJ 54.490.135/0001-01)"
+url: "https://github.com/latesconcept"
+repository-code: "https://github.com/latesconcept"
+keywords:
+  - aether
+  - zero point
+  - syntropy
+  - 43690
+  - preregistration
+  - open cosmology
+license: CC-BY-SA-4.0
