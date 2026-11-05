@@ -24,7 +24,7 @@ Esta organização é o repositório aberto do Universo Lates: o tratado canôni
 - **The Aether in a Walnut Shell** (EN) — <https://pay.kiwify.com.br/LabzbZd>
 - **Presságio das Eras I — Uma Data Marcada** (PT) — <https://pay.kiwify.com.br/3HbnNdY>
 - **The Aquarian Prophecy: The Appointed Time** (EN) — <https://pay.kiwify.com.br/b50hVtH>
-Site: <https://latesconcept.com/livros> (Mercado Pago em standby).
+Site: <https://latesconcept.github.io/> (Mercado Pago em standby).
 
 ### Como participar
 
@@ -36,7 +36,7 @@ Leia [CONTRIBUINDO.md](CONTRIBUINDO.md) e abra um PR. O template pergunta três 
 
 ## 🇺🇸 English
 
-This organization is the open repository of The Lates Universe: the full canonical treatise, the notebook of 65 formulas, Projeto Aurora, and the bench where everything gets tested. **Nothing is hidden**: read, fork, test, propose. The house law lives in [PLATAFORMA.md](PLATAFORMA.md) — a 50/50 profit split with those who build, a borrowed brand under three criteria, nothing ever deleted, canonical numbers never rounded. Books at <https://latesconcept.com/livros>. Contribute via pull request — the template asks what, why, and where it came from. Closing clause: to dignify humanity — not to make the world more belligerent, nor to serve evil.
+This organization is the open repository of The Lates Universe: the full canonical treatise, the notebook of 65 formulas, Projeto Aurora, and the bench where everything gets tested. **Nothing is hidden**: read, fork, test, propose. The house law lives in [PLATAFORMA.md](PLATAFORMA.md) — a 50/50 profit split with those who build, a borrowed brand under three criteria, nothing ever deleted, canonical numbers never rounded. Books at <https://latesconcept.github.io/>. Contribute via pull request — the template asks what, why, and where it came from. Closing clause: to dignify humanity — not to make the world more belligerent, nor to serve evil.
 
  *Nature of the material: speculative fiction and an open research method — not ready-to-use engineering instruction nor health guidance; whoever applies it applies on their own account and records, as the canon requires: prediction first, documented null after.*
 
@@ -44,6 +44,6 @@ This organization is the open repository of The Lates Universe: the full canonic
 
 ## 🇪🇸 Español
 
-Esta organización es el repositorio abierto del Universo Lates: el tratado canónico completo, el cuaderno de 65 fórmulas, el Proyecto Aurora y la banca donde todo se prueba. **Nada queda escondido**: lean, hagan fork, prueben, propongan. La ley de la casa está en [PLATAFORMA.md](PLATAFORMA.md): división 50/50 de las ganancias con quienes construyen, marca prestada bajo tres criterios, nada se borra, los números canónicos no se redondean. Los libros en <https://latesconcept.com/livros>. Participen vía pull request — la plantilla pregunta qué, por qué y de dónde viene. Cláusula final: para dignificar a la humanidad — no para tornar más bélico el mundo, ni para servir al mal.
+Esta organización es el repositorio abierto del Universo Lates: el tratado canónico completo, el cuaderno de 65 fórmulas, el Proyecto Aurora y la banca donde todo se prueba. **Nada queda escondido**: lean, hagan fork, prueben, propongan. La ley de la casa está en [PLATAFORMA.md](PLATAFORMA.md): división 50/50 de las ganancias con quienes construyen, marca prestada bajo tres criterios, nada se borra, los números canónicos no se redondean. Los libros en <https://latesconcept.github.io/>. Participen vía pull request — la plantilla pregunta qué, por qué y de dónde viene. Cláusula final: para dignificar a la humanidad — no para tornar más bélico el mundo, ni para servir al mal.
 
  *Naturaleza del material: ficción especulativa y método de investigación abierta — no es instrucción de ingeniería lista ni orientación de salud; quien lo aplica lo hace por su cuenta y registra, como manda el canon: predicción antes, nulo respaldado después.*
